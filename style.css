@@ -29,10 +29,12 @@ html, body {
     img {
         display: block;
         border: none;
+        width: 256px;
+        hieght:256px;
     }
 }
 
 #title{
     font-size: 64px;
-    align: center;
+    text-align: center;
 }
