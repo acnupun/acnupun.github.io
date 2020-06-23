@@ -22,6 +22,10 @@ html, body {
     /*
     background: #60a839;
     */
+    p {
+        display: block;
+        border: none;
+    }
     img {
         display: block;
         border: none;
