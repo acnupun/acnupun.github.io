@@ -25,6 +25,7 @@ html, body {
     p {
         display: block;
         border: none;
+        font-size: 24ppt;
     }
     img {
         display: block;
