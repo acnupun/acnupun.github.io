@@ -25,10 +25,13 @@ html, body {
     p {
         display: block;
         border: none;
-        font-size: 32px;
     }
     img {
         display: block;
         border: none;
     }
+}
+
+#title{
+    font-size: 64px;
 }
